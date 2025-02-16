@@ -1,0 +1,4 @@
+I developed a natural language-to-SQL query generator using LangChain and SQL frameworks, integrated with a Flask-based web interface. 
+The interface allows users to input database credentials (name, username, and password) to establish a connection with a local database. 
+Once connected, users can enter queries in natural language, which are processed using LangChain to generate and execute SQL queries. T
+he corresponding results are then displayed within the interface, providing an intuitive and seamless database interaction experience.
